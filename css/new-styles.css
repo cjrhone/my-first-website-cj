@@ -1,0 +1,29 @@
+html{
+  background-color: transparent;
+}
+
+h1 {
+  color: #d9230f;
+  font-size: 3rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Open Sans', sans-serif !important;
+  font-weight: normal;
+}
+
+h2 {
+  color: #3A56A2;
+}
+
+h4 {
+  color: #a09f9f;
+  text-decoration: underline;
+}
+
+img{
+  width: 800px;
+  height: 500px;
+}
+
+.breadcrumbs {
+  width: 150px;
+  height: 200px;
+}
